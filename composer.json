@@ -1,11 +1,11 @@
 {
-    "name": "nowakowskir/php-jwt",
+    "name": "choicetechlab/php-jwt",
     "description": "",
-    "homepage": "https://github.com/nowakowskir/php-jwt",
+    "homepage": "https://github.com/bkvishe/php-jwt",
     "authors": [
         {
-            "name": "Radosław Nowakowski",
-            "email": "nowakowski.r@gmail.com"
+            "name": "Bharat Vishe",
+            "email": "bharat@choicetechlab.com"
         }
     ],
     "license": "BSD-3-Clause",
